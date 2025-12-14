@@ -23,8 +23,7 @@ Follow these steps to run the project locally.
 
 1.  **Clone the repository** (if you haven't already):
     ```bash
-    git clone <repository-url>
-    cd assignment
+    git clone https://github.com/AnugrahAsh/Assignment_TRUEIGTECH.git
     ```
 
 2.  **Install dependencies**:
